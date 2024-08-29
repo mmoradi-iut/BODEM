@@ -31,3 +31,4 @@ In this repository, you can find information, results, and source codes of the B
 <br>
 
 - Detector Randomized Input Sampling for Explanation (D-RISE). [Link to the paper](http://openaccess.thecvf.com/content/CVPR2021/html/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.html)</p>
+- Local Interpretable Model-agnostic Explanations (LIME). [Link to the paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939778)</p>
