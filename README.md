@@ -1,8 +1,7 @@
 # BODEM
 Black-box Object Detection Explanation by Masking
 
-In this repository, you can find information, results, and source codes of the BODEM explanatation method. The method and experiments are described and discussed in this paper: "Model-agnostic explainable artificial intelligence for object detection in image data", [https://arxiv.org/abs/2303.17249](https://arxiv.org/abs/2303.17249).
-In oredr to request access to the source codes and datasets, send an email to m.moradi-vastegani@tricentis.com.
+In this repository, you can find information, results, and source codes of the BODEM explanatation method. The method and experiments are described and discussed in this paper: "Model-agnostic explainable artificial intelligence for object detection in image data", [https://www.sciencedirect.com/science/article/pii/S0952197624013411](https://www.sciencedirect.com/science/article/pii/S0952197624013411).
 
 <h2>The black-box explanation method</h2>
 <p>The following image illustrates the overal architecture of our BODEM explanation method:</p>
